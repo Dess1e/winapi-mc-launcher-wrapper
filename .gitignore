@@ -1,0 +1,8 @@
+defines.h 
+*.exe 
+*.pdb 
+*.iobj 
+*.ipdb 
+*.ilk 
+x64 
+.vs/
